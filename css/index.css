@@ -1,3 +1,7 @@
 .red{
     color: red;
 }
+body {
+    background-image: url("https://img1.kakaku.k-img.com/images/maga/icv/pc715/15086/img00.jpg");
+    background-size: cover;
+  }
