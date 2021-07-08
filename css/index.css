@@ -5,3 +5,15 @@ body {
     background-image: url("https://img1.kakaku.k-img.com/images/maga/icv/pc715/15086/img00.jpg");
     background-size: cover;
   }
+h1{
+    color: white;
+    background-color:black;
+}
+  p{
+    color: white;
+    background-color:black;
+}
+ul{
+    color: white;
+    background-color:rgb(192, 192, 192);
+}
